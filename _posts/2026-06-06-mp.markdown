@@ -2,7 +2,7 @@
 layout:   post
 title:   "《Java Script二十年推荐语》"
 author:    TechShrimp
-header-style:text
+header-style: text
 catalog:true
 tags:
     -web
