@@ -1,6 +1,6 @@
 ---
 layout:   post
-title：   "《Java Script二十年推荐语》"
+title:   "《Java Script二十年推荐语》"
 author:    TechShrimp
 header-style:text
 catalog:true
