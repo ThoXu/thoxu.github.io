@@ -1,3 +1,0 @@
----
-layout:   post
-title：   "《Java Script二十年推荐语》"mp.markdown
